@@ -53,7 +53,7 @@
       <img src="6.jpg" width="100%">      
     </td>
   </tr>
-</table>  
-# Award  
-1.2019-2021: Second-class scholarships for two consecutive years  
+</table>    
+# Award    
+1.2019-2021: Second-class scholarships for two consecutive years    
 2.2020-2021: The third prize in the mathematics competition of "Huawei Cup"
