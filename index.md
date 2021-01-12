@@ -9,11 +9,11 @@
       <img src="XuemengWang.jpg" width="100%">    
     </td>
   </tr>
-</table>
+</table>  
 
 # Background
--2012.09-2015.07, Undergraduates, Jilin University, Electronic Information Engineering Technology  
--2015.09-now, Graduatestudents, BeiHang University, Electronic Information Engineering  
+1.2012.09-2015.07, Undergraduates, Jilin University, Electronic Information Engineering Technology  
+2.2015.09-now, Graduatestudents, BeiHang University, Electronic Information Engineering  
 # Research Interests
 1.Artificial Intelligence  
 2.Computer Vision  
@@ -30,7 +30,7 @@
       <img src="2.jpg" width="100%">      
     </td>
   </tr>
-</table>
+</table>  
 
 <table border="0">
   <tr>
@@ -41,7 +41,7 @@
       <img src="4.jpg" width="100%">      
     </td>
   </tr>
-</table>
+</table>  
 
 
 <table border="0">
@@ -53,7 +53,7 @@
       <img src="6.jpg" width="100%">      
     </td>
   </tr>
-</table>
+</table>  
 # Award  
 1.2019-2021: Second-class scholarships for two consecutive years  
 2.2020-2021: The third prize in the mathematics competition of "Huawei Cup"
