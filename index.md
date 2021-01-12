@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Name: Xuemeng Wang</h1>
+      <h1>Xuemeng Wang</h1>
       <p><b>Email: zy1902513@buaa.edu.cn</b></p>
       <p><b>Address: BeiHang University, XueYuan Road No.37,HaiDian District,BeiJing,China</b></p>
     </td>
