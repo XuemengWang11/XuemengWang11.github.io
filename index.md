@@ -11,16 +11,16 @@
   </tr>
 </table>
 
-#Background
+# Background
 1.2012.09-2015.07, Undergraduates, Jilin University, Electronic Information Engineering Technology
 2.2015.09-now, Graduatestudents, BeiHang University, Electronic Information Engineering
-#Research Interests
+# Research Interests
 -Artificial Intelligence
 -Computer Vision
 -Image Processing
 -Deep Learning
-#Research Projects
-##Low-light image enhancement
+# Research Projects
+## Low-light image enhancement
 <table border="0">
   <tr>
     <td width="50%">
@@ -54,6 +54,6 @@
     </td>
   </tr>
 </table>
-#Award
+# Award
 1.2019-2021: Second-class scholarships for two consecutive years
 2.2020-2021: The third prize in the mathematics competition of "Huawei Cup"
